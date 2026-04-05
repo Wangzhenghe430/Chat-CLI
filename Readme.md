@@ -1,4 +1,4 @@
-本项目基于硅基流动（SiliconFlow）大模型 API 开发，实现了一个可在命令行中与 AI 交互的聊天工具。
+ 本项目基于硅基流动（SiliconFlow）大模型 API 开发，实现了一个可在命令行中与 AI 交互的聊天工具。
 通过 Git 进行版本控制，并使用 GitHub 完成协作开发。
 
 
@@ -18,6 +18,10 @@ pip install -r requirements.txt
 
 2. 配置 .env 文件，填写 API Key
 
+```bash
+git clone https://github.com/Wangzhenghe430/Chat-CLI.git
+cd Chat-CLI
+
 3. 启动程序
 python main.py chat
 
@@ -26,5 +30,3 @@ python main.py chat
 
 
 姓名：王正和
-
-           
